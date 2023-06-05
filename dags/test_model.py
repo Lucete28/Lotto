@@ -15,6 +15,8 @@ dt_model = DecisionTreeRegressor()
 xgb_model = xgb.XGBRegressor()
 
 origin_Data = pd.read_csv('/home/jhy/code/Lotto/dags/lotto1.csv')
+origin_Data = origin_Data.iloc[:-1]
+
 train_data, test_data = train_test_split(origin_Data)
 
 y_train_data = train_data.iloc[:, 45:]
