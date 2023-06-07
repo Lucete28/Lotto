@@ -9,5 +9,7 @@
 - 평가지표 분석 결과에 따른 실측값 조정
 - 최종결과 라인노티로 전송
 
+- [ ] 데이터 파일 역순으로 돌려가며 시스템 평가
+- [ ] 전처리 데이터 추가 정제
 ![image](https://github.com/Lucete28/Lotto/assets/97825872/6e9c44a9-5e00-40ee-ba5b-d3194d062e2d)
 ![image](https://github.com/Lucete28/Lotto/assets/97825872/ceffd51f-4888-40a5-abfd-ae8e6308facd)
